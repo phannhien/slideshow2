@@ -1,2 +1,3 @@
-# slideshow2
-chương trình ảnh
+# slideshow1
+#Sinh viên : Phan Xuân Nhiên
+#msv: 16t1021120

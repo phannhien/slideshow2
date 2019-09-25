@@ -1,0 +1,10 @@
+D:\Lập trình\NetFramework\slideshow1\slideshow1\obj\Debug\slideshow1.csprojAssemblyReference.cache
+D:\Lập trình\NetFramework\slideshow1\slideshow1\obj\Debug\slideshow1.Form1.resources
+D:\Lập trình\NetFramework\slideshow1\slideshow1\obj\Debug\slideshow1.Properties.Resources.resources
+D:\Lập trình\NetFramework\slideshow1\slideshow1\obj\Debug\slideshow1.csproj.GenerateResource.cache
+D:\Lập trình\NetFramework\slideshow1\slideshow1\obj\Debug\slideshow1.csproj.CoreCompileInputs.cache
+D:\Lập trình\NetFramework\slideshow1\slideshow1\bin\Debug\slideshow1.exe.config
+D:\Lập trình\NetFramework\slideshow1\slideshow1\bin\Debug\slideshow1.exe
+D:\Lập trình\NetFramework\slideshow1\slideshow1\bin\Debug\slideshow1.pdb
+D:\Lập trình\NetFramework\slideshow1\slideshow1\obj\Debug\slideshow1.exe
+D:\Lập trình\NetFramework\slideshow1\slideshow1\obj\Debug\slideshow1.pdb
